@@ -34,5 +34,4 @@ Before running the project locally or on Colab, ensure the following:
    - Click "Submit" to train the model and generate text interactively.
 3. View the generated text in the output box.
 
-## Example
-### Input Training Text:
+
