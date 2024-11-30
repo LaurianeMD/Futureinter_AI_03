@@ -1,8 +1,6 @@
 # Futureinter_AI_03
 Text generation algorithm using Markov chains
 
-# MarkovChain_AI_01
-
 # Text Generation with Markov Chains
 
 This project implements a **Markov Chain Text Generator** using Python. It enables users to train a Markov Chain model with their own text input and generate text dynamically. The project is built entirely within a **Jupyter Notebook**, and an interactive interface is provided through **Gradio**.
